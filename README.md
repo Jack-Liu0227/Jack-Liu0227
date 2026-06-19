@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ai4s-hero.png" alt="Jack Liu AI4S research banner" width="100%" />
+  <img src="assets/home.png" alt="Jack Liu AI4S research banner" width="100%" />
 </p>
 
 <p align="center">
