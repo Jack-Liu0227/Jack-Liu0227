@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:14b8a6&text=Jack%20Liu%20%7C%20AI4S%20Researcher&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%20for%20Materials%20Discovery%20%26%20Scientific%20Automation&descAlignY=58&descSize=16" alt="Jack Liu | AI4S Researcher" />
+  <img src="assets/ai4s-hero.png" alt="Jack Liu AI4S research banner" width="100%" />
 </p>
 
 <p align="center">
