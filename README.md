@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=%3E+AI4S+%7C+Materials+Informatics+%7C+LLM+Agent;%3E+Personal+Research+Workbench+%26+Scientific+Workflow+Automation;%3E+Physics-Informed+Machine+Learning+for+Material+Discovery" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=00F0FF&center=true&vCenter=true&width=800&lines=%E2%96%B6+SYSTEM_ONLINE%3A+AI4S+Research+Station;%E2%96%B6+FOCUS%3A+Materials+Informatics+%7C+Autonomous+Discovery;%E2%96%B6+WORKBENCH%3A+Local-First+Scientific+Research+Platform;%E2%96%B6+BREAKTHROUGH%3A+Ultralow-%CE%BA+Chalcogenides+via+LLM" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,6 +23,23 @@
 ## Hi, 我是 Jack Liu (Yujie Liu)
 
 我来自**西安交通大学材料科学与工程学院 / 金属材料强度国家重点实验室**，长期关注 **AI4S (AI for Science)**、**Materials Informatics (材料信息学)** 与 **科研自动化 / LLM Agent**。致力于将机器学习、深度学习与大语言模型引入真实材料物理与化学问题中，涵盖材料性质预测、逆向设计、少样本学习与自主科学发现。
+
+```yaml
+# 🛸 AI4S Terminal HUD
+system: "Personal Research Station"
+operator: "Jack Liu (Yujie Liu)"
+affiliation: "Xi'an Jiaotong University | State Key Laboratory for Mechanical Behavior of Materials"
+status: "Active & Exploring"
+core_domains:
+  - "AI for Science (AI4S)"
+  - "Materials Informatics"
+  - "Autonomous Scientific Agents"
+key_projects:
+  - "Personal Research Workbench (Local-First Scientific Platform)"
+  - "PINK (Physical-informed Machine Learning for Lattice Thermal Conductivity)"
+  - "ADLM (Automated Low Thermal Conductivity Material Discovery)"
+latest_paper: "LLM-Assisted Design of Ultralow-κ Chalcogenides (Advanced Science, 2026)"
+```
 
 - 🎓 **单位**：西安交通大学 金属材料强度国家重点实验室 / 材料科学与工程学院
 - 🔬 **研究方向**：AI for Science、材料信息学 (Materials Informatics)、LLM Agent、数据驱动材料设计
@@ -144,7 +161,15 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Liu0227&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jack Liu top languages" />
 </p>
 
-## Contribution Graph
+## Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg" />
+    <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" width="100%" />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -152,6 +177,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jack-Liu0227/Jack-Liu0227/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Jack-Liu0227/Jack-Liu0227/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=100&section=footer" width="100%" />
 </p>
 
 ---
