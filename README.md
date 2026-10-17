@@ -24,23 +24,6 @@
 
 我来自**西安交通大学材料科学与工程学院 / 金属材料强度国家重点实验室**，长期关注 **AI4S (AI for Science)**、**Materials Informatics (材料信息学)** 与 **科研自动化 / LLM Agent**。致力于将机器学习、深度学习与大语言模型引入真实材料物理与化学问题中，涵盖材料性质预测、逆向设计、少样本学习与自主科学发现。
 
-```yaml
-# 🛸 AI4S Terminal HUD
-system: "Personal Research Station"
-operator: "Jack Liu (Yujie Liu)"
-affiliation: "Xi'an Jiaotong University | State Key Laboratory for Mechanical Behavior of Materials"
-status: "Active & Exploring"
-core_domains:
-  - "AI for Science (AI4S)"
-  - "Materials Informatics"
-  - "Autonomous Scientific Agents"
-key_projects:
-  - "Personal Research Workbench (Local-First Scientific Platform)"
-  - "PINK (Physical-informed Machine Learning for Lattice Thermal Conductivity)"
-  - "ADLM (Automated Low Thermal Conductivity Material Discovery)"
-latest_paper: "LLM-Assisted Design of Ultralow-κ Chalcogenides (Advanced Science, 2026)"
-```
-
 - 🎓 **单位**：西安交通大学 金属材料强度国家重点实验室 / 材料科学与工程学院
 - 🔬 **研究方向**：AI for Science、材料信息学 (Materials Informatics)、LLM Agent、数据驱动材料设计
 - 🛠️ **主要工具**：Python、PyTorch、Transformers、scikit-learn、Pandas、Jupyter、Electron
@@ -161,15 +144,7 @@ latest_paper: "LLM-Assisted Design of Ultralow-κ Chalcogenides (Advanced Scienc
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Liu0227&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jack Liu top languages" />
 </p>
 
-## Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg" />
-    <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" width="100%" />
-  </picture>
-</p>
+## Contribution Graph
 
 <p align="center">
   <picture>
