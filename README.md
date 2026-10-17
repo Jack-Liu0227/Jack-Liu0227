@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=jOu_s-sAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Yujie%20Liu-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
   <a href="https://github.com/Jack-Liu0227">
     <img src="https://img.shields.io/badge/GitHub-Jack--Liu0227-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
@@ -17,13 +20,14 @@
   </a>
 </p>
 
-## Hi, 我是 Jack Liu
+## Hi, 我是 Jack Liu (Yujie Liu)
 
-我关注 **AI4S**、**Materials Informatics** 与 **科研自动化**，喜欢把机器学习、深度学习和 LLM Agent 放进真实科研问题里，尤其是材料性质预测、少样本建模、知识抽取与科研工作流加速。
+我来自**西安交通大学材料科学与工程学院 / 金属材料强度国家重点实验室**，长期关注 **AI4S (AI for Science)**、**Materials Informatics (材料信息学)** 与 **科研自动化 / LLM Agent**。致力于将机器学习、深度学习与大语言模型引入真实材料物理与化学问题中，涵盖材料性质预测、逆向设计、少样本学习与自主科学发现。
 
-- 正在探索：AI for Science、材料信息学、LLM Agent、科研知识工程
-- 主要工具：Python、PyTorch、Transformers、scikit-learn、Pandas、Jupyter
-- 主页关键词：用 AI 探索材料、性质预测与科研自动化
+- 🎓 **单位**：西安交通大学 金属材料强度国家重点实验室 / 材料科学与工程学院
+- 🔬 **研究方向**：AI for Science、材料信息学 (Materials Informatics)、LLM Agent、数据驱动材料设计
+- 🛠️ **主要工具**：Python、PyTorch、Transformers、scikit-learn、Pandas、Jupyter
+- 🌐 **学术主页**：[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=jOu_s-sAAAAJ)
 
 ## Tech Stack
 
@@ -41,6 +45,52 @@
   <img src="https://img.shields.io/badge/LLM%20Agent-7C3AED?style=flat-square" alt="LLM Agent" />
 </p>
 
+## 📄 Selected Publications
+
+> 更多学术发表与引用统计请查阅 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=jOu_s-sAAAAJ)。
+
+1. **LLM-Assisted Design of Ultralow-κ Chalcogenides** 🔥 *(Latest)*  
+   **Yujie Liu**, Congran Jia, Yuzhou Hao, Xuejie Li, Yang Wang, Artem R. Oganov, Jun Sun, Xiangdong Ding, Turab Lookman\*, Zhibin Gao\*  
+   *Advanced Science*, 2026.  
+   <a href="https://doi.org/10.1002/advs.78175"><img src="https://img.shields.io/badge/DOI-10.1002%2Fadvs.78175-0077c8?style=flat-square&logo=doi&logoColor=white" alt="DOI" /></a>
+   <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78175"><img src="https://img.shields.io/badge/Wiley-Advanced%20Science-003366?style=flat-square" alt="Wiley" /></a>
+
+2. **Materials Informatics: Emergence to Autonomous Discovery in the Age of AI**  
+   Turab Lookman\*, **Yujie Liu**, Zhibin Gao\*  
+   *Advanced Materials*, 38 (29), e15941, 2026.  
+   <a href="https://doi.org/10.1002/adma.202515941"><img src="https://img.shields.io/badge/DOI-10.1002%2Fadma.202515941-0077c8?style=flat-square&logo=doi&logoColor=white" alt="DOI" /></a>
+   <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202515941"><img src="https://img.shields.io/badge/Wiley-Advanced%20Materials-003366?style=flat-square" alt="Wiley" /></a>
+
+3. **PINK: Physical-informed Machine Learning for Lattice Thermal Conductivity**  
+   **Yujie Liu**, Xiaoying Wang, Yuzhou Hao, Xuejie Li, Jun Sun, Turab Lookman, Xiangdong Ding, Zhibin Gao\*  
+   *arXiv preprint*, arXiv:2503.17060, 2025.  
+   <a href="https://arxiv.org/abs/2503.17060"><img src="https://img.shields.io/badge/arXiv-2503.17060-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv" /></a>
+   <a href="https://github.com/Jack-Liu0227/AI4Kappa"><img src="https://img.shields.io/badge/Code-AI4Kappa-181717?style=flat-square&logo=github" alt="Code" /></a>
+
+4. **LLM-Driven Discovery for Carbon Allotropes with Bond-Network Entropy**  
+   Yuzhou Hao, **Yujie Liu**, Xuejie Li, Turab Lookman, Xiangdong Ding, Jun Sun, Zhibin Gao\*  
+   *Applied Physics Letters*, 128 (10), 102202, 2026.  
+   <a href="https://doi.org/10.1063/5.0314279"><img src="https://img.shields.io/badge/DOI-10.1063%2F5.0314279-0077c8?style=flat-square&logo=doi&logoColor=white" alt="DOI" /></a>
+   <a href="https://pubs.aip.org/aip/apl/article/128/10/102202/3382659"><img src="https://img.shields.io/badge/AIP-Appl.%20Phys.%20Lett.-CC0000?style=flat-square" alt="AIP" /></a>
+
+5. **Machine Learning-Driven Elasticity Prediction in Advanced Inorganic Materials via Convolutional Neural Networks**  
+   **Yujie Liu**, Zhenyu Wang, Hang Lei, Guoyu Zhang, Jiawei Xian, Zhibin Gao, Jun Sun, Haifeng Song, Xiangdong Ding\*  
+   *Acta Physica Sinica*, 74 (12), 2025.  
+   <a href="https://doi.org/10.7498/aps.74.20250127"><img src="https://img.shields.io/badge/DOI-10.7498%2Faps.74.20250127-0077c8?style=flat-square&logo=doi&logoColor=white" alt="DOI" /></a>
+   <a href="https://arxiv.org/abs/2511.04468"><img src="https://img.shields.io/badge/arXiv-2511.04468-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv" /></a>
+
+6. **Same-Group Element Replacement Enhances Superconductivity in Clathrate-Like YH4**  
+   Xuejie Li, Yuzhou Hao, **Yujie Liu**, Xiaoying Wang, Turab Lookman, Jun Sun, Xiangdong Ding, Zhibin Gao\*  
+   *The Journal of Chemical Physics*, 163 (10), 104107, 2025.  
+   <a href="https://doi.org/10.1063/5.0271662"><img src="https://img.shields.io/badge/DOI-10.1063%2F5.0271662-0077c8?style=flat-square&logo=doi&logoColor=white" alt="DOI" /></a>
+   <a href="https://pubs.aip.org/aip/jcp/article/163/10/104107/3361766"><img src="https://img.shields.io/badge/AIP-J.%20Chem.%20Phys.-CC0000?style=flat-square" alt="AIP" /></a>
+
+7. **Strain-Engineering the Lattice Thermal Conductivity of 2D Kagome Silica**  
+   Yang Wang, Xiaoying Wang, Yuzhou Hao, Xuejie Li, **Yujie Liu**, Jun Sun, Xiangdong Ding, Zhibin Gao\*  
+   *Applied Physics Letters*, 126 (7), 072202, 2025.  
+   <a href="https://doi.org/10.1063/5.0253235"><img src="https://img.shields.io/badge/DOI-10.1063%2F5.0253235-0077c8?style=flat-square&logo=doi&logoColor=white" alt="DOI" /></a>
+   <a href="https://pubs.aip.org/aip/apl/article/126/7/072202/3336566"><img src="https://img.shields.io/badge/AIP-Appl.%20Phys.%20Lett.-CC0000?style=flat-square" alt="AIP" /></a>
+
 ## Featured Projects
 
 <table>
@@ -56,7 +106,7 @@
     </td>
     <td width="50%">
       <h3 align="center">AI4Kappa</h3>
-      <p align="center">围绕热导率等材料性质预测的 AI4S 建模实践。</p>
+      <p align="center">围绕晶格热导率预测的物理知情机器学习（PINK）开源实现与 AI4S 实践。</p>
       <p align="center">
         <a href="https://github.com/Jack-Liu0227/AI4Kappa">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jack-Liu0227&repo=AI4Kappa&theme=tokyonight&hide_border=true" alt="AI4Kappa repository card" />
@@ -111,4 +161,6 @@
   <a href="mailto:2802644093@qq.com">Email</a>
   ·
   <a href="https://github.com/Jack-Liu0227">GitHub</a>
+  ·
+  <a href="https://scholar.google.com/citations?hl=en&user=jOu_s-sAAAAJ">Google Scholar</a>
 </p>
