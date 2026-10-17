@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=AI4S+%7C+Materials+Informatics+%7C+LLM+Agent;Building+models+for+science+and+research+automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=%3E+AI4S+%7C+Materials+Informatics+%7C+LLM+Agent;%3E+Personal+Research+Workbench+%26+Scientific+Workflow+Automation;%3E+Physics-Informed+Machine+Learning+for+Material+Discovery" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,13 +26,13 @@
 
 - 🎓 **单位**：西安交通大学 金属材料强度国家重点实验室 / 材料科学与工程学院
 - 🔬 **研究方向**：AI for Science、材料信息学 (Materials Informatics)、LLM Agent、数据驱动材料设计
-- 🛠️ **主要工具**：Python、PyTorch、Transformers、scikit-learn、Pandas、Jupyter
+- 🛠️ **主要工具**：Python、PyTorch、Transformers、scikit-learn、Pandas、Jupyter、Electron
 - 🌐 **学术主页**：[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=jOu_s-sAAAAJ)
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,githubactions,vscode" alt="Core tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,githubactions,electron,sqlite,vscode" alt="Core tech stack" />
 </p>
 
 <p align="center">
@@ -96,11 +96,11 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">BERT_ML</h3>
-      <p align="center">面向材料/科研文本与机器学习任务的 BERT + ML 探索项目。</p>
+      <h3 align="center">Personal Research Workbench</h3>
+      <p align="center">本地优先的科研工作台桌面应用：集成任务看板、日程规划、文献检索、Obsidian/Zotero 联动与 AI 辅助写作。</p>
       <p align="center">
-        <a href="https://github.com/Jack-Liu0227/BERT_ML">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jack-Liu0227&repo=BERT_ML&theme=tokyonight&hide_border=true" alt="BERT_ML repository card" />
+        <a href="https://github.com/Jack-Liu0227/personal-research-workbench">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jack-Liu0227&repo=personal-research-workbench&theme=tokyonight&hide_border=true" alt="personal-research-workbench repository card" />
         </a>
       </p>
     </td>
@@ -116,20 +116,20 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">ResearchMind</h3>
-      <p align="center">面向科研场景的智能体/自动化工作流尝试。</p>
+      <h3 align="center">Auto_Discover_LowThermalConductivity_Materials</h3>
+      <p align="center">自动化低热导材料发现工作流（ADLM），结合贝叶斯优化、LLM 智能筛选与物理性质预测。</p>
       <p align="center">
-        <a href="https://github.com/Jack-Liu0227/ResearchMind">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jack-Liu0227&repo=ResearchMind&theme=tokyonight&hide_border=true" alt="ResearchMind repository card" />
+        <a href="https://github.com/Jack-Liu0227/Auto_Discover_LowThermalConductivity_Materials">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jack-Liu0227&repo=Auto_Discover_LowThermalConductivity_Materials&theme=tokyonight&hide_border=true" alt="Auto_Discover_LowThermalConductivity_Materials repository card" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Fewshot_Guided</h3>
-      <p align="center">面向少样本学习与指导式建模的研究代码集合。</p>
+      <h3 align="center">ResearchMind</h3>
+      <p align="center">面向材料科学与科研场景的 LLM 智能体，辅助文献洞察、实验设计与假设验证。</p>
       <p align="center">
-        <a href="https://github.com/Jack-Liu0227/Fewshot_Guided">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jack-Liu0227&repo=Fewshot_Guided&theme=tokyonight&hide_border=true" alt="Fewshot_Guided repository card" />
+        <a href="https://github.com/Jack-Liu0227/ResearchMind">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jack-Liu0227&repo=ResearchMind&theme=tokyonight&hide_border=true" alt="ResearchMind repository card" />
         </a>
       </p>
     </td>
@@ -139,8 +139,9 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="172" src="https://github-readme-stats.vercel.app/api?username=Jack-Liu0227&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Jack Liu GitHub stats" />
-  <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Liu0227&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jack Liu top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jack-Liu0227&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Jack Liu GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Jack-Liu0227&theme=tokyonight&hide_border=true" alt="Jack Liu GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Liu0227&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jack Liu top languages" />
 </p>
 
 ## Contribution Graph
